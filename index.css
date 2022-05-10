@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+
+}
+.btn{
+    font-size: 18px;
+}
+.navbar-top{
+    background: #0d6efd;
+    position: fixed;
+    width: 100%;
+    overflow: hidden;
+    top: 0;
+    z-index: 1;
+
+    
+}
+.nav-link{
+    color: aliceblue!important;
+}
+.nav-link:hover{
+    background-color: #fff;
+    color: #0d6efd!important;
+}
+.navbar-home{
+    align-items: center;
+    text-align: center;
+    padding-top: 130px;
+}
+.navbar-brand{
+    color: #fff!important;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+
+}
+li{
+    list-style: none;
+}
+.nav-link-item{
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 5px 5px 5px 5px;
+    transition: all 0.8s;
+    -webkit-transition: all 0.8s;
+    -moz-transition: all 0.8s;
+    -ms-transition: all 0.8s;
+    -o-transition: all 0.8s;
+}
+.nav-link-item:hover{
+    color:#fff;
+    background-color: #0d6efd;
+    width: 10px;
+    height: 10px;
+}
+
+.ferst-title {
+    padding-top: 30px;
+   
+}
+.first-content{
+    padding-top: 80px;
+}
+
+.ferst-description {
+   margin-bottom: 30px;
+   font-size: 20px;
+}
+.first-img {
+    max-width: 400xp;
+}
+.first-img-item {
+    width: 100%;
+}
+
+.two-section {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 150px;
+}
+ .two-img {
+    max-width: 200px;
+}
+.two-img-item {
+    width: 100%;
+} 
+
+.first-img-first-col{
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+}
+.two-img-two-col{
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+}
+.description-image{
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.three-section{
+    padding-top:180px;
+    
+}
+.three-section-item{
+    padding-top: 50px;
+}
+.three-section-item-img{
+    width: 400px;
+}
+img{
+    max-width: 100%;
+}
+.span-text{
+    background: #0d6efd;
+    width: 400px;
+    height: 40px;
+}
+.span-text-item{
+    color: #fff;
+}
+.item-price-block{
+    display: flex;
+    padding-top: 30px;
+}
+.item-price{
+    margin-left: 50px;
+   
+}
+
+
+.for-section{
+    padding-top: 150px;
+}
+.for-section-item{
+    padding-top: 80px;
+}
+.for-item-description{
+    font-size: 18px;
+}
+.icomic{
+    margin-left: 10px;
+    padding-right: 10px;
+}
