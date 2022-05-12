@@ -1,3 +1,5 @@
-User-agent: 
-Crawl-delay: 5
-Host: https://check33.ru
+User-agent: *
+Disallow: 
+Host: check33.ru
+Host: www.check33.ru
+Sitemap: http://check33.ru/sitemap.xml
